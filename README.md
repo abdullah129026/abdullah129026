@@ -44,6 +44,7 @@ I write up what breaks and what I learned from it, weekly on [Dev.to](https://de
 ## Stack
 
 <p>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="40" height="40" alt="C++" title="C++">
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="40" height="40" alt="Python" title="Python">
   <img src="https://skillicons.dev/icons?i=ts&theme=light" width="40" height="40" alt="TypeScript" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="40" height="40" alt="FastAPI" title="FastAPI">
@@ -58,7 +59,7 @@ I write up what breaks and what I learned from it, weekly on [Dev.to](https://de
   <img src="https://skillicons.dev/icons?i=cloudflare&theme=light" width="40" height="40" alt="Cloudflare" title="Cloudflare">
 </p>
 
-- **Languages:** Python, TypeScript, JavaScript
+- **Languages:** C++, Python, TypeScript, JavaScript
 - **Backend:** FastAPI, Node.js, Express, REST and OpenAPI design, WebSockets
 - **Frontend:** Next.js, React, Tailwind
 - **AI:** RAG pipelines, embeddings and semantic search, LLM integration (Groq, Gemini), streaming responses
