@@ -25,6 +25,8 @@ Everything here is deployed and usable, not just code on GitHub.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/promostack.svg" width="22" height="22" alt="PromoStack logo"> [PromoStack](https://promostack-eight.vercel.app) | API-first promotion infrastructure for indie SaaS: coupons, gift cards, referrals, loyalty and fraud controls through one API. A full product with billing, built as a business; the codebase stays private for now. | Next.js, TypeScript, Tailwind |
+| <img src="https://useunderway.vercel.app/icon.svg" width="22" height="22" alt="UseUnderway logo"> [UseUnderway](https://useunderway.vercel.app) | An engineering metrics OS for 5 to 30 developer GitHub teams: DORA dashboards, PR review analytics and digest emails at one flat price per team. Team-level metrics only, it never scores individual developers. Codebase private. | Next.js, TypeScript, Supabase, Stripe |
 | <img src="https://prism.fluxyai.codes/icon.svg" width="22" height="22" alt="PRISM logo"> [PRISM](https://prism.fluxyai.codes) | A 3D Git time machine. Fly through a repo's history in 3D, ask questions about commits in plain English, and get conflict warnings before branches collide. | Next.js, Three.js, FastAPI, Groq |
 | <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/spec2run.svg" width="22" height="22" alt="Spec2Run logo"> [Spec2Run](https://spec2run.fluxyai.codes) | Type your API in plain English, get a live deployed microservice. The prompt becomes an OpenAPI spec, then generated FastAPI code running in a sandbox. | FastAPI, SQLAlchemy, Groq, Monaco |
 | <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/ghostcode.svg" width="22" height="22" alt="GhostCode logo"> [GhostCode](https://ghostcode-shah20.vercel.app) | Turns dead code into a P&L statement. Finds unused code with AST analysis, estimates what it costs to maintain, and drafts the removal PR. | FastAPI, tree-sitter, Next.js |
@@ -35,8 +37,6 @@ Everything here is deployed and usable, not just code on GitHub.
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| **[PromoStack](https://promostack-eight.vercel.app)** | API-first promotion infrastructure for indie SaaS: coupons, gift cards, referrals, loyalty and fraud controls through one API. | Codebase private while I build it as a business |
-| **[UseUnderway](https://useunderway.vercel.app)** | An engineering metrics OS for 5 to 30 developer GitHub teams: DORA dashboards, PR review analytics and digest emails, at one flat price per team. It never scores individual developers; every metric is a team metric. | Codebase private |
 | [Link Rot Killer](https://link-rot-killer.vercel.app) | Paste a sitemap and get every dead link, broken image and dead YouTube embed on the site, scored by SEO impact, with PDF and CSV reports. | Live |
 | [Env Machine](https://env-time-machine.vercel.app) | Version control for .env files: history, diffs, one-click rollback and an audit log. | Live |
 
