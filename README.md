@@ -44,11 +44,18 @@ I write up what breaks and what I learned from it, weekly on [Dev.to](https://de
 ## Stack
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=light">
-    <img alt="Python, TypeScript, FastAPI, Node.js, Express, Next.js, React, PostgreSQL, MongoDB, Docker, AWS and Cloudflare" src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=light">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="40" height="40" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" width="40" height="40" alt="TypeScript" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="40" height="40" alt="FastAPI" title="FastAPI">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=express&theme=light" width="40" height="40" alt="Express" title="Express">
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="40" height="40" alt="Next.js" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=react&theme=light" width="40" height="40" alt="React" title="React">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40" height="40" alt="MongoDB" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="40" height="40" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40" alt="AWS" title="AWS">
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=light" width="40" height="40" alt="Cloudflare" title="Cloudflare">
 </p>
 
 - **Languages:** Python, TypeScript, JavaScript
