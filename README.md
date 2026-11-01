@@ -1,32 +1,54 @@
 # Muhammad Abdullah Shah
 
-Backend Developer at Zyroo, where I build a PDF-grounded RAG chatbot: documents in, answers out, grounded in the source with streamed responses. Final-year BS Computer Science student at Abdul Wali Khan University Mardan, graduating in 2027.
+**Backend Developer at Zyroo · Full-Stack / AI Engineer**
 
-Everything below is live. I build AI-powered developer tools, ship them, and write about what breaks along the way. Most of it ships under [Flux Studio](https://www.fluxyai.codes), my own product studio.
+I build AI systems that have to survive real documents and real users. At work that is a PDF-grounded RAG chatbot. On my own time it is a run of AI developer tools, each one shipped live, each one built to solve a problem I actually ran into.
 
-## Shipped and live
+<p>
+  <samp>
+    <a href="https://www.fluxyai.codes">website</a> ·
+    <a href="https://www.linkedin.com/in/muhammad-abdullah-shah-78227b3a3/">linkedin</a> ·
+    <a href="https://dev.to/muhammad_abdullahshah_96">dev.to</a> ·
+    <a href="mailto:abdullah129026@fluxyai.codes">email</a>
+  </samp>
+</p>
 
-**[PRISM](https://github.com/abdullah129026/prism-ai-git-time-machine)** · [prism.fluxyai.codes](https://prism.fluxyai.codes)
-An AI-powered 3D Git time machine. Explore a repo's history in 3D, ask questions about commits in plain English, and watch the code evolve.
+## Now
 
-**[Spec2Run](https://github.com/abdullah129026/spec2run)** · [spec2run.fluxyai.codes](https://spec2run.fluxyai.codes)
-Type your API in plain English, get a live deployed microservice. Prompt to OpenAPI to generated FastAPI code, running in a sandbox.
+- **Zyroo** (Backend Developer): a RAG chatbot that answers questions from uploaded PDFs instead of model memory. Express and Mongoose backend, Gemini for generation, semantic search over document chunks, answers streamed over SSE with guardrails, plus team workspaces and usage based billing.
+- **Shipping this week:** Trace, a real-time collaborative code execution visualizer. Next up is PatchPilot.
+- **Final year** of a BS in Computer Science at Abdul Wali Khan University Mardan, graduating June 2027. After that I am targeting remote Full-Stack / AI Engineer roles.
 
-**[GhostCode](https://github.com/abdullah129026/ghostcode)** · [ghostcode-shah20.vercel.app](https://ghostcode-shah20.vercel.app)
-Turns dead code into a P&L statement. Finds unused code, estimates what it costs to keep, and drafts the removal PR.
+## Flagship projects
 
-**[API Contract Firewall](https://github.com/abdullah129026/api-contract-firewall)** · [api-contract-firewall.vercel.app](https://api-contract-firewall.vercel.app)
-Proxy your API through it and it learns the contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers.
+Everything here is deployed and usable, not just code on GitHub.
 
-**[Trace](https://github.com/abdullah129026/trace)** · shipping November 2026
-A real-time collaborative code execution visualizer. Like Figma, but for debugging: multiple people watch code execute live, with an AI co-pilot explaining each step.
+| Project | What it does | Built with | Live |
+| --- | --- | --- | --- |
+| [PRISM](https://github.com/abdullah129026/prism-ai-git-time-machine) | A 3D Git time machine. Fly through a repo's history in 3D, ask questions about commits in plain English, and get conflict warnings before branches collide. | Next.js, Three.js, FastAPI, Groq | [prism.fluxyai.codes](https://prism.fluxyai.codes) |
+| [Spec2Run](https://github.com/abdullah129026/spec2run) | Type your API in plain English, get a live deployed microservice. The prompt becomes an OpenAPI spec, then generated FastAPI code running in a sandbox. | FastAPI, SQLAlchemy, Groq, Monaco | [spec2run.fluxyai.codes](https://spec2run.fluxyai.codes) |
+| [GhostCode](https://github.com/abdullah129026/ghostcode) | Turns dead code into a P&L statement. Finds unused code with AST analysis, estimates what it costs to maintain, and drafts the removal PR. | FastAPI, tree-sitter, Next.js | [ghostcode-shah20.vercel.app](https://ghostcode-shah20.vercel.app) |
+| [API Contract Firewall](https://github.com/abdullah129026/api-contract-firewall) | A proxy that learns your API's contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers. | Cloudflare Workers, Next.js, Supabase | [api-contract-firewall.vercel.app](https://api-contract-firewall.vercel.app) |
+| [Trace](https://github.com/abdullah129026/trace) | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. | FastAPI, Yjs, WebSockets, custom Python and JS tracers | shipping November 2026 |
+
+Also live: [Env Machine](https://github.com/abdullah129026/env-time-machine), a time machine for environment variables ([env-time-machine.vercel.app](https://env-time-machine.vercel.app)), and the [Flux Studio](https://github.com/abdullah129026/flux-studio) site, my product studio where all of this ships from.
+
+## Open source
+
+I contribute in the same stack I build in. Recent work includes open pull requests to [PostHog](https://github.com/PostHog/posthog/pull/126748) and [posthog-js](https://github.com/PostHog/posthog-js/pull/5503), and regression test work on smaller projects where a maintainer has actually asked for it.
+
+## Writing
+
+I write up what breaks and what I learned from it, weekly on [Dev.to](https://dev.to/muhammad_abdullahshah_96) and on AWS Builder Center, where I also comment on other builders' work daily.
 
 ## Stack
 
-Python, FastAPI, TypeScript, Next.js, React, Node.js, Express, PostgreSQL, MongoDB, Docker, AWS. Retrieval pipelines, embeddings, and LLM integration are where I spend most of my time.
+- **Languages:** Python, TypeScript, JavaScript
+- **Backend:** FastAPI, Node.js, Express, REST and OpenAPI design, WebSockets
+- **Frontend:** Next.js, React, Tailwind
+- **AI:** RAG pipelines, embeddings and semantic search, LLM integration (Groq, Gemini), streaming responses
+- **Data and infra:** PostgreSQL, MongoDB, Supabase, Docker, AWS, Cloudflare Workers, Vercel, Render
 
-## Find me
+## Contact
 
-- Website: [fluxyai.codes](https://www.fluxyai.codes)
-- LinkedIn: [muhammad-abdullah-shah-78227b3a3](https://www.linkedin.com/in/muhammad-abdullah-shah-78227b3a3/)
-- Email: abdullah129026@fluxyai.codes
+The fastest ways to reach me are [email](mailto:abdullah129026@fluxyai.codes) and [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-shah-78227b3a3/). My studio site is [fluxyai.codes](https://www.fluxyai.codes).
