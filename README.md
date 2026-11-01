@@ -43,6 +43,14 @@ I write up what breaks and what I learned from it, weekly on [Dev.to](https://de
 
 ## Stack
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=light">
+    <img alt="Python, TypeScript, FastAPI, Node.js, Express, Next.js, React, PostgreSQL, MongoDB, Docker, AWS and Cloudflare" src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,nextjs,react,postgres,mongodb,docker,aws,cloudflare&theme=light">
+  </picture>
+</p>
+
 - **Languages:** Python, TypeScript, JavaScript
 - **Backend:** FastAPI, Node.js, Express, REST and OpenAPI design, WebSockets
 - **Frontend:** Next.js, React, Tailwind
