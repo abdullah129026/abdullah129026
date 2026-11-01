@@ -31,7 +31,16 @@ Everything here is deployed and usable, not just code on GitHub.
 | <img src="https://api-contract-firewall.vercel.app/icon.svg" width="22" height="22" alt="API Contract Firewall logo"> [API Contract Firewall](https://github.com/abdullah129026/api-contract-firewall) | A proxy that learns your API's contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers. | Cloudflare Workers, Next.js, Supabase | [api-contract-firewall.vercel.app](https://api-contract-firewall.vercel.app) |
 | <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/trace.svg" width="22" height="22" alt="Trace logo"> [Trace](https://github.com/abdullah129026/trace) | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. | FastAPI, Yjs, WebSockets, custom Python and JS tracers | shipping November 2026 |
 
-Also live: [Env Machine](https://github.com/abdullah129026/env-time-machine), a time machine for environment variables ([env-time-machine.vercel.app](https://env-time-machine.vercel.app)), and the [Flux Studio](https://github.com/abdullah129026/flux-studio) site, my product studio where all of this ships from.
+## More products
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| **PromoStack** | API-first promotion infrastructure for indie SaaS: coupons, gift cards, referrals, loyalty and fraud controls through one API. | [Live site](https://promostack-eight.vercel.app) · codebase private while I build it as a business |
+| **UseUnderway** | An engineering metrics OS for 5 to 30 developer GitHub teams: DORA dashboards, PR review analytics and digest emails, at one flat price per team. It never scores individual developers; every metric is a team metric. | [Live site](https://useunderway.vercel.app) · codebase private |
+| [Link Rot Killer](https://github.com/abdullah129026/link-rot-killer) | Paste a sitemap and get every dead link, broken image and dead YouTube embed on the site, scored by SEO impact, with PDF and CSV reports. | [Live](https://link-rot-killer.vercel.app) |
+| [Env Machine](https://github.com/abdullah129026/env-time-machine) | Version control for .env files: history, diffs, one-click rollback and an audit log. | [Live](https://env-time-machine.vercel.app) |
+
+All of it ships from [Flux Studio](https://github.com/abdullah129026/flux-studio), my product studio.
 
 ## Open source
 
