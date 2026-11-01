@@ -23,24 +23,24 @@ I build AI systems that have to survive real documents and real users. At work t
 
 Everything here is deployed and usable, not just code on GitHub.
 
-| Project | What it does | Built with | Live |
-| --- | --- | --- | --- |
-| <img src="https://prism.fluxyai.codes/icon.svg" width="22" height="22" alt="PRISM logo"> [PRISM](https://github.com/abdullah129026/prism-ai-git-time-machine) | A 3D Git time machine. Fly through a repo's history in 3D, ask questions about commits in plain English, and get conflict warnings before branches collide. | Next.js, Three.js, FastAPI, Groq | [prism.fluxyai.codes](https://prism.fluxyai.codes) |
-| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/spec2run.svg" width="22" height="22" alt="Spec2Run logo"> [Spec2Run](https://github.com/abdullah129026/spec2run) | Type your API in plain English, get a live deployed microservice. The prompt becomes an OpenAPI spec, then generated FastAPI code running in a sandbox. | FastAPI, SQLAlchemy, Groq, Monaco | [spec2run.fluxyai.codes](https://spec2run.fluxyai.codes) |
-| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/ghostcode.svg" width="22" height="22" alt="GhostCode logo"> [GhostCode](https://github.com/abdullah129026/ghostcode) | Turns dead code into a P&L statement. Finds unused code with AST analysis, estimates what it costs to maintain, and drafts the removal PR. | FastAPI, tree-sitter, Next.js | [ghostcode-shah20.vercel.app](https://ghostcode-shah20.vercel.app) |
-| <img src="https://api-contract-firewall.vercel.app/icon.svg" width="22" height="22" alt="API Contract Firewall logo"> [API Contract Firewall](https://github.com/abdullah129026/api-contract-firewall) | A proxy that learns your API's contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers. | Cloudflare Workers, Next.js, Supabase | [api-contract-firewall.vercel.app](https://api-contract-firewall.vercel.app) |
-| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/trace.svg" width="22" height="22" alt="Trace logo"> [Trace](https://github.com/abdullah129026/trace) | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. | FastAPI, Yjs, WebSockets, custom Python and JS tracers | shipping November 2026 |
+| Project | What it does | Built with |
+| --- | --- | --- |
+| <img src="https://prism.fluxyai.codes/icon.svg" width="22" height="22" alt="PRISM logo"> [PRISM](https://prism.fluxyai.codes) | A 3D Git time machine. Fly through a repo's history in 3D, ask questions about commits in plain English, and get conflict warnings before branches collide. | Next.js, Three.js, FastAPI, Groq |
+| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/spec2run.svg" width="22" height="22" alt="Spec2Run logo"> [Spec2Run](https://spec2run.fluxyai.codes) | Type your API in plain English, get a live deployed microservice. The prompt becomes an OpenAPI spec, then generated FastAPI code running in a sandbox. | FastAPI, SQLAlchemy, Groq, Monaco |
+| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/ghostcode.svg" width="22" height="22" alt="GhostCode logo"> [GhostCode](https://ghostcode-shah20.vercel.app) | Turns dead code into a P&L statement. Finds unused code with AST analysis, estimates what it costs to maintain, and drafts the removal PR. | FastAPI, tree-sitter, Next.js |
+| <img src="https://api-contract-firewall.vercel.app/icon.svg" width="22" height="22" alt="API Contract Firewall logo"> [API Contract Firewall](https://api-contract-firewall.vercel.app) | A proxy that learns your API's contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers. | Cloudflare Workers, Next.js, Supabase |
+| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/trace.svg" width="22" height="22" alt="Trace logo"> **Trace** | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. Shipping November 2026. | FastAPI, Yjs, WebSockets, custom Python and JS tracers |
 
 ## More products
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| **PromoStack** | API-first promotion infrastructure for indie SaaS: coupons, gift cards, referrals, loyalty and fraud controls through one API. | [Live site](https://promostack-eight.vercel.app) · codebase private while I build it as a business |
-| **UseUnderway** | An engineering metrics OS for 5 to 30 developer GitHub teams: DORA dashboards, PR review analytics and digest emails, at one flat price per team. It never scores individual developers; every metric is a team metric. | [Live site](https://useunderway.vercel.app) · codebase private |
-| [Link Rot Killer](https://github.com/abdullah129026/link-rot-killer) | Paste a sitemap and get every dead link, broken image and dead YouTube embed on the site, scored by SEO impact, with PDF and CSV reports. | [Live](https://link-rot-killer.vercel.app) |
-| [Env Machine](https://github.com/abdullah129026/env-time-machine) | Version control for .env files: history, diffs, one-click rollback and an audit log. | [Live](https://env-time-machine.vercel.app) |
+| **[PromoStack](https://promostack-eight.vercel.app)** | API-first promotion infrastructure for indie SaaS: coupons, gift cards, referrals, loyalty and fraud controls through one API. | Codebase private while I build it as a business |
+| **[UseUnderway](https://useunderway.vercel.app)** | An engineering metrics OS for 5 to 30 developer GitHub teams: DORA dashboards, PR review analytics and digest emails, at one flat price per team. It never scores individual developers; every metric is a team metric. | Codebase private |
+| [Link Rot Killer](https://link-rot-killer.vercel.app) | Paste a sitemap and get every dead link, broken image and dead YouTube embed on the site, scored by SEO impact, with PDF and CSV reports. | Live |
+| [Env Machine](https://env-time-machine.vercel.app) | Version control for .env files: history, diffs, one-click rollback and an audit log. | Live |
 
-All of it ships from [Flux Studio](https://github.com/abdullah129026/flux-studio), my product studio.
+All of it ships from [Flux Studio](https://www.fluxyai.codes), my product studio.
 
 ## Open source
 
