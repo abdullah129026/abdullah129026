@@ -16,7 +16,7 @@ I build AI systems that have to survive real documents and real users. At work t
 ## Now
 
 - **Zyroo** (Backend Developer): a RAG chatbot that answers questions from uploaded PDFs instead of model memory. Express and Mongoose backend, Gemini for generation, semantic search over document chunks, answers streamed over SSE with guardrails, plus team workspaces and usage based billing.
-- **Shipping this week:** Trace, a real-time collaborative code execution visualizer. Next up is PatchPilot.
+- **Live now:** [Trace](https://trace-swwy.vercel.app), a real-time collaborative code execution visualizer. Next up is PatchPilot.
 - **Final year** of a BS in Computer Science at Abdul Wali Khan University Mardan, graduating June 2027. After that I am targeting remote Full-Stack / AI Engineer roles.
 
 ## Flagship projects
@@ -31,7 +31,7 @@ Everything here is deployed and usable, not just code on GitHub.
 | <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/spec2run.svg" width="22" height="22" alt="Spec2Run logo"> [Spec2Run](https://spec2run.fluxyai.codes) | Type your API in plain English, get a live deployed microservice. The prompt becomes an OpenAPI spec, then generated FastAPI code running in a sandbox. | FastAPI, SQLAlchemy, Groq, Monaco |
 | <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/ghostcode.svg" width="22" height="22" alt="GhostCode logo"> [GhostCode](https://ghostcode-shah20.vercel.app) | Turns dead code into a P&L statement. Finds unused code with AST analysis, estimates what it costs to maintain, and drafts the removal PR. | FastAPI, tree-sitter, Next.js |
 | <img src="https://api-contract-firewall.vercel.app/icon.svg" width="22" height="22" alt="API Contract Firewall logo"> [API Contract Firewall](https://api-contract-firewall.vercel.app) | A proxy that learns your API's contract from live traffic, catches breaking changes and schema drift, and blocks deploys that would break consumers. | Cloudflare Workers, Next.js, Supabase |
-| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/trace.svg" width="22" height="22" alt="Trace logo"> **Trace** | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. Shipping November 2026. | FastAPI, Yjs, WebSockets, custom Python and JS tracers |
+| <img src="https://raw.githubusercontent.com/abdullah129026/abdullah129026/main/assets/trace.svg" width="22" height="22" alt="Trace logo"> [Trace](https://trace-swwy.vercel.app) | Like Figma, but for debugging. Multiple people watch code execute live, scrub through each step, and an AI co-pilot explains what is happening. Shipped November 2026. | FastAPI, Yjs, WebSockets, custom Python and JS tracers |
 
 ## More products
 
